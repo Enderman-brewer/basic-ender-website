@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <style>
   body {
     background-color: #222222;
