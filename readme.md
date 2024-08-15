@@ -13,9 +13,9 @@ body {
 <body>
 <h1>Issue Tracker</h1>
 
-<input type="text" id="name" placeholder="Name/Reference">
+<input type="text" id="Name (Required)" placeholder="Name/Reference">
 <br>
-<input type="text" id="issue" placeholder="Issues">
+<input type="text" id="Issue (required)" placeholder="Issues">
 <br>
 <input type="checkbox" id="agree" onclick="checkAgree()"> I agree to the <a href="#">terms</a>
 <button id="post" disabled>Post</button>
