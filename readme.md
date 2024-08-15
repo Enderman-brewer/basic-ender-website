@@ -1,1 +1,4 @@
-Ok, I have no idea what im doing.
+I got the site to WORK!
+
+*Italic*
+**Bold**
