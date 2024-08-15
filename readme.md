@@ -17,7 +17,7 @@ body {
 <br>
 <input type="text" id="issue" placeholder="Issues">
 <br>
-<input type="checkbox" id="agree" onclick="checkAgree()"> I agree to the <a href="#">terms</a>
+<input type="checkbox" id="agree" onclick="checkAgree()"> I agree to the <a href="#">terms and conditions</a>
 <button id="post" disabled>Post</button>
 
 <div id="issues"></div>
