@@ -1,1 +1,10 @@
-
+[
+  {
+    "name": "Example Name",
+    "issue": "This is an example issue"
+  },
+  {
+    "name": "Another Name 2",
+    "issue": "A different issue 2"
+  }
+]
